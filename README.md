@@ -35,15 +35,15 @@ Mittels Packer werden Ubunut VMs unter Virtualbox automatisiert erstellt. Die VM
 <tab>    | <tab>
 -------------------|---------------------------------------------------------------------------------------------------------------------------------------              
 **Vagrant:**    
-![Programmbilder](\Bilder\Programme_Vagrant.PNG)
+![Programmbilder](/Bilder/Programme_Vagrant.PNG)
  
-1. Visual Studio Code<br>   ![Programmbilder](\Bilder\Programme_Visual_Studio_Code.PNG)
+1. Visual Studio Code<br>   ![Programmbilder](/Bilder/Programme_Visual_Studio_Code.PNG)
 2. VirtualBox<br>
-   ![Programmbilder](\Bilder\Programme_VirtualBox.PNG)
+   ![Programmbilder](/Bilder/Programme_VirtualBox.PNG)
 3. GIT<br>   
-   ![Programmbilder](\Bilder\Programme_GIT.PNG)
+   ![Programmbilder](/Bilder/Programme_GIT.PNG)
 4. SSH Key<br>
-   ![Programmbilder](\Bilder\SSH_Key.PNG)
+   ![Programmbilder](/Bilder/SSH_Key.PNG)
          
 ## 4.Lernumgebung 
   - **-Installiert und Funktionsfähig-**
@@ -59,7 +59,7 @@ Mittels Packer werden Ubunut VMs unter Virtualbox automatisiert erstellt. Die VM
 
 <tab>    | <tab>
 --------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Bestehende vm aus Vagrant-Cloud einrichten** | ![Programmbilde_r](\Bilder\Vagrant_VM.PNG)
+**Bestehende vm aus Vagrant-Cloud einrichten** | ![Programmbilde_r](/Bilder/Vagrant_VM.PNG)
 
 -------------------
   
