@@ -50,7 +50,7 @@ Mittels Packer werden Ubunut VMs unter Virtualbox automatisiert erstellt. Die VM
   
 <tab>    | <tab>
 --------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**GITHUB**   | ![Programmbilder](\Bilder\GITHUB.PNG)
+**GITHUB**   | ![Programmbilder](/Bilder/GITHUB.PNG)
 **Dokumentation ist als Mark Down**        | JA
 **Mark down ist strukturiert** | Meiner eigenen Meinung Nach ist es Strukturiert.
 
